@@ -2,7 +2,7 @@ Copyright (c) 2021, Alexander Damiani
 
 # pylinter
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org)
 
 Enforce python linting on commits and pull requests.
 
